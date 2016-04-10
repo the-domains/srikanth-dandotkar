@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Srikanth Dandotkar]]></title>
+        <description><![CDATA[Srikanth Dandotkar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 17:37:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is my first post on Grid. It looks amazing, and I am fun exploring the platform. I will try to post my experience using grid as of now.</p>]]></description>
+            <link>undefined52197839-7cb4-4ff8-be87-b195a2adf9f0/index.html</link>
+            <guid isPermaLink="false">52197839-7cb4-4ff8-be87-b195a2adf9f0</guid>
+            <pubDate>Sun, 10 Apr 2016 17:37:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
