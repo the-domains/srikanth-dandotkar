@@ -1,0 +1,29 @@
+name: Srikanth Dandotkar
+favicon: null
+layout_spectrum: 0.018249459797516465
+typography_spectrum: 0.9799409757833928
+title: My Digital World
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.227523613255471
+  lightness: 0.2486693833488971
+  saturation: 0.3523868378251791
+  rhythmicContrast: 0.5965492068789899
+purpose: []
